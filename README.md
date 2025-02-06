@@ -1,4 +1,1 @@
-- 🔭 I’m currently working on the Stanford CS224N course on Natural Language Processing
-- 🌱 I’m currently learning Natural Language Processing
 - 📫 How to reach me: laurin.koller@protonmail.com
-- 😄 Pronouns: He/Him
