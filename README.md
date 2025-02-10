@@ -1,1 +1,2 @@
+- Currently working on the Coursera "Machine Learning Specialication" course by Andrew Ng
 - 📫 How to reach me: laurin.koller@protonmail.com
