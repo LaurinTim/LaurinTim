@@ -1,2 +1,1 @@
-- Currently working on the Coursera "Deep Learning Specialication" course by Andrew Ng
 - 📫 How to reach me: laurin.koller@protonmail.com
